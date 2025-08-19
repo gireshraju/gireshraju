@@ -3,8 +3,8 @@
 
 📍 Hyderabad, India | ✉️ [a.gireshraju@gmail.com](mailto:a.gireshraju@gmail.com)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/giresh-raju-47b45b258) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](h[ttps://YOUR-PORTFOLIO.com](https://gireshraju.netlify.app/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giresh-raju-47b45b258) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gireshraju.netlify.app/)  
 
 ---
 
@@ -44,10 +44,10 @@ I love turning data into actionable insights, optimizing ML models, and developi
 
 ---
 
-
 ## 🌐 Connect with Me
 📧 [Email Me](mailto:a.gireshraju@gmail.com)  
-💼 [LinkedIn](www.linkedin.com/in/giresh-raju-47b45b258)  
+💼 [LinkedIn](https://www.linkedin.com/in/giresh-raju-47b45b258)  
+🌐 [Portfolio](https://gireshraju.netlify.app/)  
 🐙 [GitHub](https://github.com/gireshraju)  
 
 ---
