@@ -1,7 +1,7 @@
 # Hi 👋, I'm Giresh Raju Adimulam
 ### 🚀 AI & Software Engineer | ML Enthusiast | Cloud Certified
 
-📍 Hyderabad, India | ✉️ [a.gireshraju@gmail.com](mailto:a.gireshraju@gmail.com)  
+📍 Hyderabad, India | ✉️ [gireshrajuadimulam@gmail.com](mailto:gireshrajuadimulam@gmail.com)  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giresh-raju-47b45b258) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gireshraju.netlify.app/)  
